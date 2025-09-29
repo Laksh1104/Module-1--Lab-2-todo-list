@@ -53,20 +53,20 @@ Here are a list of user stories. All of them are about a regular user, so we'll 
 
 As a user …
 
-1. I want to categorize my todo items so that I can organize my tasks better
-2. I want to remove a todo item so that I can manage my tasks
-3. I want to save my todo list so that I can keep my changes when I quit
-4. I want to filter my todo list by done or not done items so that I can focus on what needs to be done
-5. I want to mark a todo item as done so that I can track my progress
-6. I want to view my todo list so that I can choose what to do next
-7. I want to set reminders for my todo items so that I can be notified about upcoming tasks
-8. I want to add a todo item so that I can keep track of tasks
-9. I want to edit a todo item so that I can update task details
-10. I want to sort my todo list by priority or due date so that I can prioritize my tasks
-11. I want to search for a todo item so that I can quickly find specific tasks
-12. I want to set due dates for my todo items so that I can manage my time effectively
-13. I want to unmark a todo item as done so that I can revisit tasks
-14. When I open the app, I want to see my existing todo list so that I can start working on my tasks
+1. I want to categorize my todo items so that I can organize my tasks better [N]
+2. I want to remove a todo item so that I can manage my tasks [Y]
+3. I want to save my todo list so that I can keep my changes when I quit [Y]
+4. I want to filter my todo list by done or not done items so that I can focus on what needs to be done [N]
+5. I want to mark a todo item as done so that I can track my progress [Y]
+6. I want to view my todo list so that I can choose what to do next [Y]
+7. I want to set reminders for my todo items so that I can be notified about upcoming tasks [N]
+8. I want to add a todo item so that I can keep track of tasks [Y]
+9. I want to edit a todo item so that I can update task details [N]
+10. I want to sort my todo list by priority or due date so that I can prioritize my tasks [N]
+11. I want to search for a todo item so that I can quickly find specific tasks [N]
+12. I want to set due dates for my todo items so that I can manage my time effectively[N]
+13. I want to unmark a todo item as done so that I can revisit tasks [Y]
+14. When I open the app, I want to see my existing todo list so that I can start working on my tasks [Y]
 
 ---
 
